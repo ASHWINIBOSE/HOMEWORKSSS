@@ -1,3 +1,3 @@
 <?php
-header("Location:readd.html")
+header("Location:boot.html")
 ?>
